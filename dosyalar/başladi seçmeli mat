@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+ <script
+    charset="UTF-8"
+    src="//web.webpushs.com/js/push/a6c0853762981e81ff3cf0a6d81197b0_1.js"
+    async
+  ></script>
+<head>
+<title>SEÇMALİ MAT</title>
+<meta name="description" content="DERS BAŞLADI İD :4080220695">
+<meta name="keywords" content="CANLI, DERS, ORUÇ GAZİ, ORATA OKUL, ORTA, OKUL">
+<style>
+
+.button {
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.button1 {background-color: #4CAF50;} /* Green */
+.button2 {background-color: #008CBA;} /* Blue */
+</style>
+</head> 
+<body>
+<center>
+</center>
+  <div>
+     <p>
+<h1>Seçmeli Mat. Uyg.</h1>
+<h1>DERS BAŞLADI</h1>
+<p>DERSE KATILDIKTAN SORNA ZOOM A YÖNLENDİRİLECEKSİNİZ</p>
+<p>ÖĞRETMEN : Esn'b</p>
+
+<a href="https://us05web.zoom.us/j/4080220695?pwd=dS8rVjFnWThySzhhd3Yyek9XT090Zz09"><button class="button button1">KATIL</button>
+
+</body>
+</html>
